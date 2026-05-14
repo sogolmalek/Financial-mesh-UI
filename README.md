@@ -6,12 +6,6 @@ Flowbit is a financial control architecture that gives CFOs real-time visibility
 
 ## Live Demo
 
-Open `index.html` in any browser — no build step needed.
-
-Or deploy to GitHub Pages:
-1. Push this repo
-2. Go to Settings → Pages → Source: `main` / `root`
-3. Your dashboard is live at `https://yourusername.github.io/flowbit/`
 
 ## What This Shows
 
